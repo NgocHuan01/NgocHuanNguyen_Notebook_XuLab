@@ -7,6 +7,7 @@ ref: now
 order: 2
 ---
 
-This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
+I'm currently a Ph.D. Student in Molecular, Cellular, and Developmental Biology at The University of Kansas.
+I work in Xu Lab under the the mentorship of Dr. Liang Xu and Dr. Xiaoqing Wu.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
