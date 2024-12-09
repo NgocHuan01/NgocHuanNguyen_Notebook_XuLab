@@ -7,6 +7,9 @@ tags:
 
 # Making Cell Stock
 
+![](https://raw.githubusercontent.com/NgocHuan01/NgocHuanNguyen_Notebook_XuLab/refs/heads/master/images/cell_storage_media_solutions.webp)
+- Image Source: STEMCELL Technologies
+
 **Materials Needed**
 
 **Material**|**Location**
